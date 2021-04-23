@@ -1054,7 +1054,7 @@ try {
   var _reactDomDefault = _parcelHelpers.interopDefault(_reactDom);
   var _App = require("./App");
   var _AppDefault = _parcelHelpers.interopDefault(_App);
-  var _jsxFileName = "/Users/jisukim/react-parcel-example-1/src/index.js";
+  var _jsxFileName = "/Users/jisukim/react-parcel-test-upload/src/index.js";
   _reactDomDefault.default.render(/*#__PURE__*/_reactDefault.default.createElement(_AppDefault.default, {
     __self: undefined,
     __source: {
@@ -26272,7 +26272,7 @@ try {
   _parcelHelpers.defineInteropFlag(exports);
   var _react = require("react");
   var _reactDefault = _parcelHelpers.interopDefault(_react);
-  var _jsxFileName = "/Users/jisukim/react-parcel-example-1/src/App.js";
+  var _jsxFileName = "/Users/jisukim/react-parcel-test-upload/src/App.js";
   const viewHeight = 500;
   const viewWidth = 500;
   const App = () => {
@@ -26302,13 +26302,61 @@ try {
         }
       }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
         x: 200,
-        y: 100,
-        width: "10",
-        height: "10",
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230, 230, 230)",
         __self: undefined,
         __source: {
           fileName: _jsxFileName,
           lineNumber: 10,
+          columnNumber: 13
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 212,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230, 230, 230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 11,
+          columnNumber: 13
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 224,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230, 230, 230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 12,
+          columnNumber: 13
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 236,
+        y: 200,
+        width: 10,
+        height: 10,
+        fill: "rgb(230, 230, 230)",
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 13,
+          columnNumber: 13
+        }
+      }), /*#__PURE__*/_reactDefault.default.createElement("rect", {
+        x: 248,
+        y: 200,
+        width: 10,
+        height: 10,
+        __self: undefined,
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 14,
           columnNumber: 13
         }
       }))
